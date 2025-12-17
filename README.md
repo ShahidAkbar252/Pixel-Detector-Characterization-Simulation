@@ -57,4 +57,4 @@ This work was supervised by researchers from **DESY (Deutsches Elektronen-Synchr
 ### How to use this repository
 
 1. Navigate to the individual subdirectories for specific instructions on how to run the simulations or analysis scripts.
-2. Refer to `Report_Measurement with Pixel Telescope_Git.pdf` for a detailed scientific discussion of the results.
+2. Refer to `Report_Measurement with Pixel Telescope_Git.pdf` for a comprehensive scientific discussion of the results.
